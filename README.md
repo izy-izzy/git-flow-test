@@ -12,3 +12,4 @@ hotfixed izy-izzy
 
 - hotfix 0.0.1
 - add new-feature
+- add feature 123
