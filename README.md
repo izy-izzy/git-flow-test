@@ -4,4 +4,6 @@ Testing GitFlow
 
 Added FEATURE ABC
 
+Added FEATURE XYZ
+
 - added some stuff
